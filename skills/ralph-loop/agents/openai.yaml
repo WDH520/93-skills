@@ -1,0 +1,3 @@
+display_name: Ralph Loop
+short_description: 自引用 AI 迭代开发循环
+default_prompt: 启动 Ralph 循环进行迭代开发

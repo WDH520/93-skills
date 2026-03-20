@@ -1,0 +1,65 @@
+# 依赖目录
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 虚拟环境
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 日志文件
+*.log
+logs/
+
+# 环境配置（保留示例文件）
+.env
+.env.local
+.env.*.local
+
+# 构建输出
+dist/
+build/
+*.egg-info/
+
+# 临时文件
+*.tmp
+*.bak
+.cache/
+
+# 测试覆盖率
+coverage/
+.coverage
+htmlcov/
+.pytest_cache/
+
+# 机器学习模型（可选）
+*.pth
+*.pt
+*.onnx
+*.h5
+models/
+
+# 大型数据文件
+*.csv
+*.xlsx
+*.parquet
+data/
+
+# 文档构建
+_site/
+.npm/

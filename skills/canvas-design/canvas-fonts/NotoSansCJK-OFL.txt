@@ -1,0 +1,64 @@
+Noto Sans CJK (思源黑体) - Open Font License
+
+Copyright 2014-2021 Adobe (http://www.adobe.com/)
+Copyright 2014-2021 Google (http://www.google.com/)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The fonts are covered by the OFL, while the source code and build scripts
+are covered by the Apache License, Version 2.0.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s).
+
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT.
+
+-----------------------------------------------------------
+
+字体说明 / Font Description:
+- NotoSansCJKsc-Regular.otf: 常规字重 (Regular, 15.68 MB)
+- NotoSansCJKsc-Bold.otf: 粗体 (Bold, 16.21 MB)
+- NotoSansCJKsc-Light.otf: 细体 (Light, 15.57 MB)
+- NotoSansCJKsc-Medium.otf: 中等字重 (Medium, 15.76 MB)
+
+思源黑体 (Noto Sans CJK) 是 Adobe 和 Google 联合开发的开源泛中日韩字体，
+支持简体中文、繁体中文、日文和韩文。
+
+Source Han Sans (Noto Sans CJK) is an open source Pan-CJK font developed
+by Adobe and Google, supporting Simplified Chinese, Traditional Chinese,
+Japanese, and Korean.

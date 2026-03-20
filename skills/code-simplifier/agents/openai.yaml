@@ -1,0 +1,3 @@
+display_name: Code Simplifier
+short_description: Simplifies and refines code for clarity and maintainability while preserving functionality
+default_prompt: Use the code-simplifier agent to clean up and simplify the code we just wrote
