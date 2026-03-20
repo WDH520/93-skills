@@ -1,6 +1,15 @@
 # Skills - 智能体技能集合
 
-> 93 个强大的智能体技能，助你高效完成编程开发、AI 辅助、文档处理等各类任务
+<div align="center">
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/WDH520/93-skills)](https://github.com/WDH520/93-skills/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/WDH520/93-skills)](https://github.com/WDH520/93-skills/network)
+[![GitHub issues](https://img.shields.io/github/issues/WDH520/93-skills)](https://github.com/WDH520/93-skills/issues)
+
+**93 个强大的智能体技能，助你高效完成编程开发、AI 辅助、文档处理等各类任务**
+
+</div>
 
 ## 📖 简介
 
